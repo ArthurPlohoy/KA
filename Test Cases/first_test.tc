@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>first_test - Copy (14)</name>
+   <name>first_test</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>053d7b2d-447e-42db-9206-a37e420bf221</testCaseGuid>
+   <testCaseGuid>81978fa7-68b0-4abf-9bc0-b6fcbb527675</testCaseGuid>
 </TestCaseEntity>
