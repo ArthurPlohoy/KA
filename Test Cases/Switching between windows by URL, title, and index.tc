@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>first_test - Copy (5)</name>
+   <name>Switching between windows by URL, title, and index</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>d68d3f55-16f7-4738-9a1e-7bf85eb9b072</testCaseGuid>
+   <testCaseGuid>ef696d83-7e00-43da-bebb-3fb18d685289</testCaseGuid>
 </TestCaseEntity>

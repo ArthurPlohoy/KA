@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>first_test - Copy (6)</name>
+   <name>Login failed</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>f237c9ca-b640-4f60-8ba9-4a755d9f4073</testCaseGuid>
+   <testCaseGuid>f34332b7-9c8c-414e-aefc-b91e3d13d07e</testCaseGuid>
 </TestCaseEntity>
